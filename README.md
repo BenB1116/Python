@@ -18,7 +18,10 @@ Python is an incredibly versatile programming language, and this repository serv
 
 In this section, you'll find various projects I've built using Python and different libraries. Each project has its own folder with a detailed README explaining its purpose and how to run it. Some of the projects you might find include:
 
-- **Project 1**: 
+- **Project 1**: Random Noise Generator Examples
+- **Project 2**: UT Tyler Classes Web Scaper Using Beautiful Soup
+- **Project 3**: Data Analytics Project Using Dash
+
 
 ## Code Snippets
 
