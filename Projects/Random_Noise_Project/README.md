@@ -6,7 +6,7 @@ This project is a Python-based image noise generator that creates various types 
 
 1. [Introduction](#introduction)
 2. [Supported Noise Types](#supported-noise-types)
-5. [Examples](#examples)
+<!-- 3. [Images](#Images -->
 
 ## Introduction
 
@@ -24,11 +24,6 @@ The following noise types are demonstrated:
 6. **etc.**
 
 
-## Examples
-
-Here are some examples of images with different types of noise applied:
-
-![Random Noise](https://your-image-url.com)
-![Perlin Noise](https://your-image-url.com)
-![Gaussian Noise](https://your-image-url.com)
+<!-- ## Images
+ -->
 
